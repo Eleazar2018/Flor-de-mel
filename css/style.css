@@ -1,7 +1,9 @@
 *{
     font-family: 'Montserrat', sans-serif;
 }
-
+p{
+    color: #101010;
+}
 body{
     background-color: #252525;
     color: #626262;
@@ -21,7 +23,8 @@ body{
     background-color: #101010;
 }
 .primary-color{
-    color: #c09578;
+    color:rgb(31, 7, 248);
+    font-size: 28px;
 }
 .secondary-color{
     color: #626262;
